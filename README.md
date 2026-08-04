@@ -24,11 +24,9 @@ Projenin canlı versiyonlarını aşağıdaki bağlantılardan inceleyebilirsini
 ---
 
 ## 📸 Ekran Görüntüleri & Önizleme
-
 | Ana Web Sitesi (Masaüstü & Mobil) | Dijital QR Menü (Mobil) |
 | :---: | :---: |
-| ![Ana Sayfa]<img width="1302" height="611" alt="main-page" src="https://github.com/user-attachments/assets/ffc0962c-3798-46de-a78d-c813e72bb559" />
- | ![QR Menü]<img width="450" height="613" alt="qrmenu" src="https://github.com/user-attachments/assets/074f615c-76ff-43ba-aebb-dd99c4c5f09a" /> |
+| ![Ana Sayfa](screenshots/main-page.png) | ![QR Menü](screenshots/qrmenu.png) |
 
 | Yönetim Paneli (CMS) |
 | :---: | :---: |
