@@ -1,5 +1,6 @@
 # 🍕 Afilli Pizza - Web & Dijital QR Menü Platformu
 
+
 ![Production](https://img.shields.io/badge/Status-Live%20in%20Production-success?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +27,8 @@ Projenin canlı versiyonlarını aşağıdaki bağlantılardan inceleyebilirsini
 
 | Ana Web Sitesi (Masaüstü & Mobil) | Dijital QR Menü (Mobil) |
 | :---: | :---: |
-| ![Ana Sayfa](screenshots/website-hero.png) | ![QR Menü](screenshots/qrmenu-mobile.png) |
+| ![Ana Sayfa]<img width="1302" height="611" alt="main-page" src="https://github.com/user-attachments/assets/ffc0962c-3798-46de-a78d-c813e72bb559" />
+ | ![QR Menü]<img width="450" height="613" alt="qrmenu" src="https://github.com/user-attachments/assets/074f615c-76ff-43ba-aebb-dd99c4c5f09a" /> |
 
 | Yönetim Paneli (CMS) |
 | :---: | :---: |
