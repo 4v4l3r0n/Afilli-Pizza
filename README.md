@@ -29,7 +29,7 @@ Projenin canlı versiyonlarını aşağıdaki bağlantılardan inceleyebilirsini
 | ![Ana Sayfa](screenshots/main-page.png) | ![QR Menü](screenshots/qrmenu.png) |
 
 | Yönetim Paneli (CMS) |
-| :---: | :---: |
+| :---: 
 | ![Admin Panel](screenshots/admin-dashboard.png) |
 
 ---
